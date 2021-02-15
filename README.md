@@ -1,1 +1,1 @@
-# clock
+# A simple clock widget
